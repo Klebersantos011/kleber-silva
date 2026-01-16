@@ -12,7 +12,6 @@
 💻 **Projetos de Destaque:**
 
 * **Mobilize Já:** Plataforma completa para aluguel e doação de equipamentos de acessibilidade, focada em impacto social e experiência do usuário.
-* **Streaming API:** Estrutura de backend em C# desenvolvida para gerenciamento de mídia em larga escala.
 
 🛠 **Tecnologias & Ferramentas**
 
