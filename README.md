@@ -1,1 +1,29 @@
-# kleber-silva
+<div align="left">
+
+# 👋 Olá, eu sou o Kleber Mendonça!
+### 🚀 Desenvolvedor Web Full Stack em Evolução
+
+💡 **Sobre Mim**
+
+🎓 **Sistemas de Informação em fase de conclusão**
+🏢 **Focado na criação de interfaces modernas e APIs eficientes**
+🌱 **Desenvolvendo aplicações escaláveis com o ecossistema JavaScript**
+
+💻 **Projetos de Destaque:**
+
+* **Mobilize Já:** Plataforma completa para aluguel e doação de equipamentos de acessibilidade, focada em impacto social e experiência do usuário.
+* **Streaming API:** Estrutura de backend em C# desenvolvida para gerenciamento de mídia em larga escala.
+
+🛠 **Tecnologias & Ferramentas**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+🌐 **Onde me encontrar**
+
+<a href="https://www.linkedin.com/in/klebersantosdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<br>
+
+✨ *Obrigado por visitar meu perfil! Vamos nos conectar e criar juntos!* ✨
+
+</div>
