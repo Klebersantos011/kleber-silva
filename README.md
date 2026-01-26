@@ -1,17 +1,18 @@
 <div align="left">
 
-# 👋 Olá, eu sou o Kleber Mendonça!
-### 🚀 Desenvolvedor Web Full Stack em Evolução
+#  Olá, eu sou o Kleber Santos!
+###  Desenvolvedor Web Full Stack em Evolução
 
-💡 **Sobre Mim**
+ **Sobre Mim**
 
-🎓 **Sistemas de Informação em fase de conclusão**
-🏢 **Focado na criação de interfaces modernas e APIs eficientes**
-🌱 **Desenvolvendo aplicações escaláveis com o ecossistema JavaScript**
+ **Sistemas de Informação em fase de conclusão**
+ **Focado na criação de interfaces modernas e APIs eficientes**
+ **Desenvolvendo aplicações escaláveis com o ecossistema JavaScript**
 
 💻 **Projetos de Destaque:**
 
 * **Mobilize Já:** Plataforma completa para aluguel e doação de equipamentos de acessibilidade, focada em impacto social e experiência do usuário.
+* **Aero Ponto:** Plataforma completa de vitrine e gestão de viagens, focada em uma experiência visual intuitiva para o cliente e controle total para o administrador.
 
 🛠 **Tecnologias & Ferramentas**
 
@@ -23,6 +24,6 @@
 
 <br>
 
-✨ *Obrigado por visitar meu perfil! Vamos nos conectar e criar juntos!* ✨
+ *Obrigado por visitar meu perfil! Vamos nos conectar e criar juntos!* 
 
 </div>
